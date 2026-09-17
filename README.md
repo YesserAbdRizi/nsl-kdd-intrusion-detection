@@ -45,4 +45,4 @@ The original notebook and weights remain under `legacy/` for provenance. Those w
 
 ## Limitations
 
-NSL-KDD is a historical benchmark; performance on it does not establish performance on modern live network traffic. The notebook has not yet been fully trained in this refresh.
+NSL-KDD is a historical benchmark; performance on it does not establish performance on modern live network traffic. 
